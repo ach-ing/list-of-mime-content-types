@@ -1,1 +1,1 @@
-# list-of-mime/content-types
+# (word)list-of-mime/content-types
